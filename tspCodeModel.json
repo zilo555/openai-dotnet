@@ -1549,8 +1549,8 @@
             "$id": "129",
             "kind": "string",
             "decorators": [],
-            "name": "string",
             "doc": "A sequence of textual characters.",
+            "name": "string",
             "crossLanguageDefinitionId": "TypeSpec.string"
           },
           "enumType": {
@@ -3193,8 +3193,8 @@
             "$id": "262",
             "kind": "string",
             "decorators": [],
-            "name": "string",
             "doc": "A sequence of textual characters.",
+            "name": "string",
             "crossLanguageDefinitionId": "TypeSpec.string"
           },
           "enumType": {
@@ -3316,8 +3316,8 @@
             "$id": "273",
             "kind": "string",
             "decorators": [],
-            "name": "string",
             "doc": "A sequence of textual characters.",
+            "name": "string",
             "crossLanguageDefinitionId": "TypeSpec.string"
           },
           "enumType": {
@@ -4355,8 +4355,8 @@
             "$id": "360",
             "kind": "string",
             "decorators": [],
-            "name": "string",
             "doc": "A sequence of textual characters.",
+            "name": "string",
             "crossLanguageDefinitionId": "TypeSpec.string"
           },
           "enumType": {
@@ -5481,8 +5481,8 @@
             "$id": "455",
             "kind": "string",
             "decorators": [],
-            "name": "string",
             "doc": "A sequence of textual characters.",
+            "name": "string",
             "crossLanguageDefinitionId": "TypeSpec.string"
           },
           "enumType": {
@@ -14608,8 +14608,8 @@
             "$id": "1206",
             "kind": "string",
             "decorators": [],
-            "name": "string",
             "doc": "A sequence of textual characters.",
+            "name": "string",
             "crossLanguageDefinitionId": "TypeSpec.string"
           },
           "enumType": {
@@ -15108,8 +15108,8 @@
             "$id": "1246",
             "kind": "string",
             "decorators": [],
-            "name": "string",
             "doc": "A sequence of textual characters.",
+            "name": "string",
             "crossLanguageDefinitionId": "TypeSpec.string"
           },
           "enumType": {
@@ -15834,8 +15834,8 @@
             "$id": "1308",
             "kind": "string",
             "decorators": [],
-            "name": "string",
             "doc": "A sequence of textual characters.",
+            "name": "string",
             "crossLanguageDefinitionId": "TypeSpec.string"
           },
           "enumType": {
@@ -16016,8 +16016,8 @@
             "$id": "1324",
             "kind": "string",
             "decorators": [],
-            "name": "string",
             "doc": "A sequence of textual characters.",
+            "name": "string",
             "crossLanguageDefinitionId": "TypeSpec.string"
           },
           "enumType": {
@@ -16054,8 +16054,8 @@
             "$id": "1328",
             "kind": "string",
             "decorators": [],
-            "name": "string",
             "doc": "A sequence of textual characters.",
+            "name": "string",
             "crossLanguageDefinitionId": "TypeSpec.string"
           },
           "enumType": {
@@ -24931,8 +24931,8 @@
                                     "$id": "2335",
                                     "kind": "string",
                                     "decorators": [],
-                                    "name": "string",
                                     "doc": "A sequence of textual characters.",
+                                    "name": "string",
                                     "crossLanguageDefinitionId": "TypeSpec.string"
                                   },
                                   "values": [
@@ -25741,8 +25741,8 @@
                                           "$id": "2397",
                                           "kind": "string",
                                           "decorators": [],
-                                          "name": "string",
                                           "doc": "A sequence of textual characters.",
+                                          "name": "string",
                                           "crossLanguageDefinitionId": "TypeSpec.string"
                                         },
                                         "values": [
@@ -26770,8 +26770,8 @@
                                                 "$id": "2471",
                                                 "kind": "string",
                                                 "decorators": [],
-                                                "name": "string",
                                                 "doc": "A sequence of textual characters.",
+                                                "name": "string",
                                                 "crossLanguageDefinitionId": "TypeSpec.string"
                                               },
                                               "values": [
@@ -29055,8 +29055,8 @@
                     "$id": "2633",
                     "kind": "string",
                     "decorators": [],
-                    "name": "string",
                     "doc": "A sequence of textual characters.",
+                    "name": "string",
                     "crossLanguageDefinitionId": "TypeSpec.string"
                   },
                   "values": [
@@ -31143,8 +31143,8 @@
                                               "$id": "2794",
                                               "kind": "string",
                                               "decorators": [],
-                                              "name": "string",
                                               "doc": "A sequence of textual characters.",
+                                              "name": "string",
                                               "crossLanguageDefinitionId": "TypeSpec.string"
                                             },
                                             "values": [
@@ -31502,16 +31502,16 @@
                                     "$id": "2818",
                                     "kind": "enum",
                                     "decorators": [],
+                                    "doc": "The role of the author of a message",
                                     "name": "ChatCompletionRole",
                                     "isGeneratedName": false,
                                     "namespace": "OpenAI",
-                                    "doc": "The role of the author of a message",
                                     "valueType": {
                                       "$id": "2819",
                                       "kind": "string",
                                       "decorators": [],
-                                      "name": "string",
                                       "doc": "A sequence of textual characters.",
+                                      "name": "string",
                                       "crossLanguageDefinitionId": "TypeSpec.string"
                                     },
                                     "values": [
@@ -33082,8 +33082,8 @@
                                           "$id": "2933",
                                           "kind": "string",
                                           "decorators": [],
-                                          "name": "string",
                                           "doc": "A sequence of textual characters.",
+                                          "name": "string",
                                           "crossLanguageDefinitionId": "TypeSpec.string"
                                         },
                                         "values": [
@@ -35610,8 +35610,8 @@
                             "$id": "3120",
                             "kind": "string",
                             "decorators": [],
-                            "name": "string",
                             "doc": "A sequence of textual characters.",
+                            "name": "string",
                             "crossLanguageDefinitionId": "TypeSpec.string"
                           },
                           "values": [
@@ -35851,8 +35851,8 @@
                         "$id": "3139",
                         "kind": "string",
                         "decorators": [],
-                        "name": "string",
                         "doc": "A sequence of textual characters.",
+                        "name": "string",
                         "crossLanguageDefinitionId": "TypeSpec.string"
                       },
                       "values": [
@@ -40464,8 +40464,8 @@
                               "$id": "3473",
                               "kind": "string",
                               "decorators": [],
-                              "name": "string",
                               "doc": "A sequence of textual characters.",
+                              "name": "string",
                               "crossLanguageDefinitionId": "TypeSpec.string"
                             },
                             "values": [
@@ -41231,8 +41231,8 @@
                                             "$id": "3532",
                                             "kind": "string",
                                             "decorators": [],
-                                            "name": "string",
                                             "doc": "A sequence of textual characters.",
+                                            "name": "string",
                                             "crossLanguageDefinitionId": "TypeSpec.string"
                                           },
                                           "values": [
@@ -41823,8 +41823,8 @@
                                                                   "$id": "3577",
                                                                   "kind": "string",
                                                                   "decorators": [],
-                                                                  "name": "string",
                                                                   "doc": "A sequence of textual characters.",
+                                                                  "name": "string",
                                                                   "crossLanguageDefinitionId": "TypeSpec.string"
                                                                 },
                                                                 "values": [
@@ -43663,8 +43663,8 @@
                               "$id": "3701",
                               "kind": "string",
                               "decorators": [],
-                              "name": "string",
                               "doc": "A sequence of textual characters.",
+                              "name": "string",
                               "crossLanguageDefinitionId": "TypeSpec.string"
                             },
                             "values": [
@@ -45843,8 +45843,8 @@
                                   "$id": "3874",
                                   "kind": "string",
                                   "decorators": [],
-                                  "name": "string",
                                   "doc": "A sequence of textual characters.",
+                                  "name": "string",
                                   "crossLanguageDefinitionId": "TypeSpec.string"
                                 },
                                 "values": [
@@ -49613,8 +49613,8 @@
                           "$id": "4123",
                           "kind": "string",
                           "decorators": [],
-                          "name": "string",
                           "doc": "A sequence of textual characters.",
+                          "name": "string",
                           "crossLanguageDefinitionId": "TypeSpec.string"
                         },
                         "values": [
@@ -49778,8 +49778,8 @@
                                           "$id": "4136",
                                           "kind": "string",
                                           "decorators": [],
-                                          "name": "string",
                                           "doc": "A sequence of textual characters.",
+                                          "name": "string",
                                           "crossLanguageDefinitionId": "TypeSpec.string"
                                         },
                                         "values": [
@@ -50967,16 +50967,16 @@
                                         "$id": "4225",
                                         "kind": "enum",
                                         "decorators": [],
+                                        "doc": "An object specifying the format that the model must output.\n\nConfiguring `{ \"type\": \"json_schema\" }` enables Structured Outputs,\nwhich ensures the model will match your supplied JSON schema. Learn more in the\n[Structured Outputs guide](/docs/guides/structured-outputs).\n\nThe default format is `{ \"type\": \"text\" }` with no additional options.\n\n**Not recommended for gpt-4o and newer models:**\n\nSetting to `{ \"type\": \"json_object\" }` enables the older JSON mode, which\nensures the message the model generates is valid JSON. Using `json_schema`\nis preferred for models that support it.",
                                         "name": "ResponseTextFormatConfigurationType",
                                         "isGeneratedName": false,
                                         "namespace": "OpenAI",
-                                        "doc": "An object specifying the format that the model must output.\n\nConfiguring `{ \"type\": \"json_schema\" }` enables Structured Outputs,\nwhich ensures the model will match your supplied JSON schema. Learn more in the\n[Structured Outputs guide](/docs/guides/structured-outputs).\n\nThe default format is `{ \"type\": \"text\" }` with no additional options.\n\n**Not recommended for gpt-4o and newer models:**\n\nSetting to `{ \"type\": \"json_object\" }` enables the older JSON mode, which\nensures the message the model generates is valid JSON. Using `json_schema`\nis preferred for models that support it.",
                                         "valueType": {
                                           "$id": "4226",
                                           "kind": "string",
                                           "decorators": [],
-                                          "name": "string",
                                           "doc": "A sequence of textual characters.",
+                                          "name": "string",
                                           "crossLanguageDefinitionId": "TypeSpec.string"
                                         },
                                         "values": [
@@ -51843,16 +51843,16 @@
                                           "$id": "4285",
                                           "kind": "enum",
                                           "decorators": [],
+                                          "doc": "A tool that can be used to generate a response.",
                                           "name": "ToolType",
                                           "isGeneratedName": false,
                                           "namespace": "OpenAI",
-                                          "doc": "A tool that can be used to generate a response.",
                                           "valueType": {
                                             "$id": "4286",
                                             "kind": "string",
                                             "decorators": [],
-                                            "name": "string",
                                             "doc": "A sequence of textual characters.",
+                                            "name": "string",
                                             "crossLanguageDefinitionId": "TypeSpec.string"
                                           },
                                           "values": [
@@ -52457,8 +52457,8 @@
                                                             "$id": "4333",
                                                             "kind": "string",
                                                             "decorators": [],
-                                                            "name": "string",
                                                             "doc": "A sequence of textual characters.",
+                                                            "name": "string",
                                                             "crossLanguageDefinitionId": "TypeSpec.string"
                                                           },
                                                           "values": [
@@ -52946,8 +52946,8 @@
                                                             "$id": "4364",
                                                             "kind": "string",
                                                             "decorators": [],
-                                                            "name": "string",
                                                             "doc": "A sequence of textual characters.",
+                                                            "name": "string",
                                                             "crossLanguageDefinitionId": "TypeSpec.string"
                                                           },
                                                           "values": [
@@ -53347,8 +53347,8 @@
                                                         "$id": "4389",
                                                         "kind": "string",
                                                         "decorators": [],
-                                                        "name": "string",
                                                         "doc": "A sequence of textual characters.",
+                                                        "name": "string",
                                                         "crossLanguageDefinitionId": "TypeSpec.string"
                                                       },
                                                       "values": [
@@ -53714,8 +53714,8 @@
                                                       "$id": "4416",
                                                       "kind": "string",
                                                       "decorators": [],
-                                                      "name": "string",
                                                       "doc": "A sequence of textual characters.",
+                                                      "name": "string",
                                                       "crossLanguageDefinitionId": "TypeSpec.string"
                                                     },
                                                     "values": [
@@ -56454,16 +56454,16 @@
                             "$id": "4588",
                             "kind": "enum",
                             "decorators": [],
+                            "doc": "Indicates that the model should use a built-in tool to generate a response.\n[Learn more about built-in tools](/docs/guides/tools).",
                             "name": "ToolChoiceObjectType",
                             "isGeneratedName": false,
                             "namespace": "OpenAI",
-                            "doc": "Indicates that the model should use a built-in tool to generate a response.\n[Learn more about built-in tools](/docs/guides/tools).",
                             "valueType": {
                               "$id": "4589",
                               "kind": "string",
                               "decorators": [],
-                              "name": "string",
                               "doc": "A sequence of textual characters.",
+                              "name": "string",
                               "crossLanguageDefinitionId": "TypeSpec.string"
                             },
                             "values": [
@@ -57104,16 +57104,16 @@
                                               "$id": "4634",
                                               "kind": "enum",
                                               "decorators": [],
+                                              "doc": "Multi-modal input and output contents.",
                                               "name": "ItemContentType",
                                               "isGeneratedName": false,
                                               "namespace": "OpenAI",
-                                              "doc": "Multi-modal input and output contents.",
                                               "valueType": {
                                                 "$id": "4635",
                                                 "kind": "string",
                                                 "decorators": [],
-                                                "name": "string",
                                                 "doc": "A sequence of textual characters.",
+                                                "name": "string",
                                                 "crossLanguageDefinitionId": "TypeSpec.string"
                                               },
                                               "values": [
@@ -57990,8 +57990,8 @@
                                                             "$id": "4696",
                                                             "kind": "string",
                                                             "decorators": [],
-                                                            "name": "string",
                                                             "doc": "A sequence of textual characters.",
+                                                            "name": "string",
                                                             "crossLanguageDefinitionId": "TypeSpec.string"
                                                           },
                                                           "values": [
@@ -58742,8 +58742,8 @@
                                     "$id": "4745",
                                     "kind": "string",
                                     "decorators": [],
-                                    "name": "string",
                                     "doc": "A sequence of textual characters.",
+                                    "name": "string",
                                     "crossLanguageDefinitionId": "TypeSpec.string"
                                   },
                                   "values": [
@@ -59349,8 +59349,8 @@
                                               "$id": "4789",
                                               "kind": "string",
                                               "decorators": [],
-                                              "name": "string",
                                               "doc": "A sequence of textual characters.",
+                                              "name": "string",
                                               "crossLanguageDefinitionId": "TypeSpec.string"
                                             },
                                             "values": [
@@ -60663,16 +60663,16 @@
                                             "$id": "4875",
                                             "kind": "enum",
                                             "decorators": [],
+                                            "doc": "A computer screenshot image used with the computer use tool.",
                                             "name": "ComputerToolCallOutputItemOutputType",
                                             "isGeneratedName": false,
                                             "namespace": "OpenAI",
-                                            "doc": "A computer screenshot image used with the computer use tool.",
                                             "valueType": {
                                               "$id": "4876",
                                               "kind": "string",
                                               "decorators": [],
-                                              "name": "string",
                                               "doc": "A sequence of textual characters.",
+                                              "name": "string",
                                               "crossLanguageDefinitionId": "TypeSpec.string"
                                             },
                                             "values": [
@@ -61247,8 +61247,8 @@
                                                 "$id": "4915",
                                                 "kind": "string",
                                                 "decorators": [],
-                                                "name": "string",
                                                 "doc": "A sequence of textual characters.",
+                                                "name": "string",
                                                 "crossLanguageDefinitionId": "TypeSpec.string"
                                               },
                                               "values": [
@@ -61700,8 +61700,8 @@
                                                 "$id": "4945",
                                                 "kind": "string",
                                                 "decorators": [],
-                                                "name": "string",
                                                 "doc": "A sequence of textual characters.",
+                                                "name": "string",
                                                 "crossLanguageDefinitionId": "TypeSpec.string"
                                               },
                                               "values": [
@@ -63070,16 +63070,16 @@
                                       "$id": "5041",
                                       "kind": "enum",
                                       "decorators": [],
+                                      "doc": "The collection of valid roles for responses message items.",
                                       "name": "ResponsesMessageRole",
                                       "isGeneratedName": false,
                                       "namespace": "OpenAI",
-                                      "doc": "The collection of valid roles for responses message items.",
                                       "valueType": {
                                         "$id": "5042",
                                         "kind": "string",
                                         "decorators": [],
-                                        "name": "string",
                                         "doc": "A sequence of textual characters.",
+                                        "name": "string",
                                         "crossLanguageDefinitionId": "TypeSpec.string"
                                       },
                                       "values": [
@@ -67097,8 +67097,8 @@
                     "$id": "5265",
                     "kind": "string",
                     "decorators": [],
-                    "name": "string",
                     "doc": "A sequence of textual characters.",
+                    "name": "string",
                     "crossLanguageDefinitionId": "TypeSpec.string"
                   },
                   "values": [
@@ -74674,8 +74674,8 @@
                             "$id": "5838",
                             "kind": "string",
                             "decorators": [],
-                            "name": "string",
                             "doc": "A sequence of textual characters.",
+                            "name": "string",
                             "crossLanguageDefinitionId": "TypeSpec.string"
                           },
                           "values": [
@@ -74683,8 +74683,8 @@
                               "$id": "5839",
                               "kind": "enumvalue",
                               "decorators": [],
-                              "name": "text",
                               "doc": "The content is a text message.",
+                              "name": "text",
                               "value": "text",
                               "valueType": {
                                 "$ref": "5838"
@@ -74697,8 +74697,8 @@
                               "$id": "5840",
                               "kind": "enumvalue",
                               "decorators": [],
-                              "name": "image_file",
                               "doc": "The content is an image file.",
+                              "name": "image_file",
                               "value": "image_file",
                               "valueType": {
                                 "$ref": "5838"
@@ -74711,8 +74711,8 @@
                               "$id": "5841",
                               "kind": "enumvalue",
                               "decorators": [],
-                              "name": "image_url",
                               "doc": "The content is an image URL.",
+                              "name": "image_url",
                               "value": "image_url",
                               "valueType": {
                                 "$ref": "5838"
@@ -74725,8 +74725,8 @@
                               "$id": "5842",
                               "kind": "enumvalue",
                               "decorators": [],
-                              "name": "refusal",
                               "doc": "The content is a refusal message.",
+                              "name": "refusal",
                               "value": "refusal",
                               "valueType": {
                                 "$ref": "5838"
@@ -75025,8 +75025,8 @@
                                                   "$id": "5865",
                                                   "kind": "string",
                                                   "decorators": [],
-                                                  "name": "string",
                                                   "doc": "A sequence of textual characters.",
+                                                  "name": "string",
                                                   "crossLanguageDefinitionId": "TypeSpec.string"
                                                 },
                                                 "values": [
@@ -77762,8 +77762,8 @@
                                 "$id": "6063",
                                 "kind": "string",
                                 "decorators": [],
-                                "name": "string",
                                 "doc": "A sequence of textual characters.",
+                                "name": "string",
                                 "crossLanguageDefinitionId": "TypeSpec.string"
                               },
                               "values": [
@@ -81496,8 +81496,8 @@
                                   "$id": "6344",
                                   "kind": "string",
                                   "decorators": [],
-                                  "name": "string",
                                   "doc": "A sequence of textual characters.",
+                                  "name": "string",
                                   "crossLanguageDefinitionId": "TypeSpec.string"
                                 },
                                 "values": [
@@ -81767,8 +81767,8 @@
                                               "$id": "6364",
                                               "kind": "string",
                                               "decorators": [],
-                                              "name": "string",
                                               "doc": "A sequence of textual characters.",
+                                              "name": "string",
                                               "crossLanguageDefinitionId": "TypeSpec.string"
                                             },
                                             "values": [
@@ -81963,8 +81963,8 @@
                                                                 "$id": "6380",
                                                                 "kind": "string",
                                                                 "decorators": [],
-                                                                "name": "string",
                                                                 "doc": "A sequence of textual characters.",
+                                                                "name": "string",
                                                                 "crossLanguageDefinitionId": "TypeSpec.string"
                                                               },
                                                               "values": [
@@ -82463,8 +82463,8 @@
                                                                     "$id": "6417",
                                                                     "kind": "string",
                                                                     "decorators": [],
-                                                                    "name": "string",
                                                                     "doc": "A sequence of textual characters.",
+                                                                    "name": "string",
                                                                     "crossLanguageDefinitionId": "TypeSpec.string"
                                                                   },
                                                                   "values": [
@@ -84206,8 +84206,8 @@
                               "$id": "6536",
                               "kind": "string",
                               "decorators": [],
-                              "name": "string",
                               "doc": "A sequence of textual characters.",
+                              "name": "string",
                               "crossLanguageDefinitionId": "TypeSpec.string"
                             },
                             "values": [
@@ -85554,8 +85554,8 @@
                                   "$id": "6632",
                                   "kind": "string",
                                   "decorators": [],
-                                  "name": "string",
                                   "doc": "A sequence of textual characters.",
+                                  "name": "string",
                                   "crossLanguageDefinitionId": "TypeSpec.string"
                                 },
                                 "values": [
@@ -88119,8 +88119,8 @@
                     "$id": "6824",
                     "kind": "string",
                     "decorators": [],
-                    "name": "string",
                     "doc": "A sequence of textual characters.",
+                    "name": "string",
                     "crossLanguageDefinitionId": "TypeSpec.string"
                   },
                   "values": [
@@ -88693,8 +88693,8 @@
                                       "$id": "6867",
                                       "kind": "string",
                                       "decorators": [],
-                                      "name": "string",
                                       "doc": "A sequence of textual characters.",
+                                      "name": "string",
                                       "crossLanguageDefinitionId": "TypeSpec.string"
                                     },
                                     "values": [
@@ -88702,8 +88702,8 @@
                                         "$id": "6868",
                                         "kind": "enumvalue",
                                         "decorators": [],
-                                        "name": "server_vad",
                                         "doc": "Indicates that server-side voice activity detection (VAD) should be enabled, allowing the server to determine when\nadd_user_audio commands present ends of speech and should be automatically committed.\n\nThe API will also detect when the user begins talking, sending a generation_canceled command.",
+                                        "name": "server_vad",
                                         "value": "server_vad",
                                         "valueType": {
                                           "$ref": "6867"
@@ -89009,8 +89009,8 @@
                                     "$id": "6889",
                                     "kind": "string",
                                     "decorators": [],
-                                    "name": "string",
                                     "doc": "A sequence of textual characters.",
+                                    "name": "string",
                                     "crossLanguageDefinitionId": "TypeSpec.string"
                                   },
                                   "values": [
@@ -89204,16 +89204,16 @@
                                     "$id": "6902",
                                     "kind": "enum",
                                     "decorators": [],
+                                    "doc": "The supported tool type discriminators for realtime tools.\nCurrently, only 'function' tools are supported.",
                                     "name": "RealtimeToolType",
                                     "isGeneratedName": false,
                                     "namespace": "OpenAI",
-                                    "doc": "The supported tool type discriminators for realtime tools.\nCurrently, only 'function' tools are supported.",
                                     "valueType": {
                                       "$id": "6903",
                                       "kind": "string",
                                       "decorators": [],
-                                      "name": "string",
                                       "doc": "A sequence of textual characters.",
+                                      "name": "string",
                                       "crossLanguageDefinitionId": "TypeSpec.string"
                                     },
                                     "values": [
@@ -90002,8 +90002,8 @@
                               "$id": "6955",
                               "kind": "string",
                               "decorators": [],
-                              "name": "string",
                               "doc": "A sequence of textual characters.",
+                              "name": "string",
                               "crossLanguageDefinitionId": "TypeSpec.string"
                             },
                             "values": [
@@ -90134,8 +90134,8 @@
                                   "$id": "6964",
                                   "kind": "string",
                                   "decorators": [],
-                                  "name": "string",
                                   "doc": "A sequence of textual characters.",
+                                  "name": "string",
                                   "crossLanguageDefinitionId": "TypeSpec.string"
                                 },
                                 "values": [
@@ -90296,8 +90296,8 @@
                                                 "$id": "6977",
                                                 "kind": "string",
                                                 "decorators": [],
-                                                "name": "string",
                                                 "doc": "A sequence of textual characters.",
+                                                "name": "string",
                                                 "crossLanguageDefinitionId": "TypeSpec.string"
                                               },
                                               "values": [
@@ -92603,8 +92603,8 @@
                     "$id": "7121",
                     "kind": "string",
                     "decorators": [],
-                    "name": "string",
                     "doc": "A sequence of textual characters.",
+                    "name": "string",
                     "crossLanguageDefinitionId": "TypeSpec.string"
                   },
                   "values": [
@@ -106204,8 +106204,8 @@
                     "$id": "8097",
                     "kind": "string",
                     "decorators": [],
-                    "name": "string",
                     "doc": "A sequence of textual characters.",
+                    "name": "string",
                     "crossLanguageDefinitionId": "TypeSpec.string"
                   },
                   "values": [
