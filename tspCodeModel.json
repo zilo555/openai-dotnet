@@ -112308,7 +112308,7 @@
               "serverUrlTemplate": "{endpoint}",
               "skipUrlEncoding": false,
               "readOnly": false,
-              "crossLanguageDefinitionId": "OpenAI.endpoint"
+              "crossLanguageDefinitionId": "OpenAI.Assistants.endpoint"
             }
           ],
           "initializedBy": 0,
@@ -112921,7 +112921,7 @@
               "serverUrlTemplate": "{endpoint}",
               "skipUrlEncoding": false,
               "readOnly": false,
-              "crossLanguageDefinitionId": "OpenAI.endpoint"
+              "crossLanguageDefinitionId": "OpenAI.Audio.endpoint"
             }
           ],
           "initializedBy": 0,
@@ -113633,7 +113633,7 @@
               "serverUrlTemplate": "{endpoint}",
               "skipUrlEncoding": false,
               "readOnly": false,
-              "crossLanguageDefinitionId": "OpenAI.endpoint"
+              "crossLanguageDefinitionId": "OpenAI.Batches.endpoint"
             }
           ],
           "initializedBy": 0,
@@ -114890,7 +114890,7 @@
               "serverUrlTemplate": "{endpoint}",
               "skipUrlEncoding": false,
               "readOnly": false,
-              "crossLanguageDefinitionId": "OpenAI.endpoint"
+              "crossLanguageDefinitionId": "OpenAI.Chat.endpoint"
             }
           ],
           "initializedBy": 0,
@@ -116544,7 +116544,7 @@
               "serverUrlTemplate": "{endpoint}",
               "skipUrlEncoding": false,
               "readOnly": false,
-              "crossLanguageDefinitionId": "OpenAI.endpoint"
+              "crossLanguageDefinitionId": "OpenAI.Containers.endpoint"
             }
           ],
           "initializedBy": 0,
@@ -117269,7 +117269,7 @@
               "serverUrlTemplate": "{endpoint}",
               "skipUrlEncoding": false,
               "readOnly": false,
-              "crossLanguageDefinitionId": "OpenAI.endpoint"
+              "crossLanguageDefinitionId": "OpenAI.Files.endpoint"
             }
           ],
           "initializedBy": 0,
@@ -119271,7 +119271,7 @@
               "serverUrlTemplate": "{endpoint}",
               "skipUrlEncoding": false,
               "readOnly": false,
-              "crossLanguageDefinitionId": "OpenAI.endpoint"
+              "crossLanguageDefinitionId": "OpenAI.FineTuning.endpoint"
             }
           ],
           "initializedBy": 0,
@@ -119634,7 +119634,7 @@
               "serverUrlTemplate": "{endpoint}",
               "skipUrlEncoding": false,
               "readOnly": false,
-              "crossLanguageDefinitionId": "OpenAI.endpoint"
+              "crossLanguageDefinitionId": "OpenAI.Graders.endpoint"
             }
           ],
           "initializedBy": 0,
@@ -122115,7 +122115,7 @@
               "serverUrlTemplate": "{endpoint}",
               "skipUrlEncoding": false,
               "readOnly": false,
-              "crossLanguageDefinitionId": "OpenAI.endpoint"
+              "crossLanguageDefinitionId": "OpenAI.Evals.endpoint"
             }
           ],
           "initializedBy": 0,
@@ -123226,7 +123226,7 @@
               "serverUrlTemplate": "{endpoint}",
               "skipUrlEncoding": false,
               "readOnly": false,
-              "crossLanguageDefinitionId": "OpenAI.endpoint"
+              "crossLanguageDefinitionId": "OpenAI.Responses.endpoint"
             }
           ],
           "initializedBy": 0,
@@ -124556,7 +124556,7 @@
               "serverUrlTemplate": "{endpoint}",
               "skipUrlEncoding": false,
               "readOnly": false,
-              "crossLanguageDefinitionId": "OpenAI.endpoint"
+              "crossLanguageDefinitionId": "OpenAI.Messages.endpoint"
             }
           ],
           "initializedBy": 0,
@@ -124761,7 +124761,7 @@
               "serverUrlTemplate": "{endpoint}",
               "skipUrlEncoding": false,
               "readOnly": false,
-              "crossLanguageDefinitionId": "OpenAI.endpoint"
+              "crossLanguageDefinitionId": "OpenAI.Moderations.endpoint"
             }
           ],
           "initializedBy": 0,
@@ -127326,7 +127326,7 @@
               "serverUrlTemplate": "{endpoint}",
               "skipUrlEncoding": false,
               "readOnly": false,
-              "crossLanguageDefinitionId": "OpenAI.endpoint"
+              "crossLanguageDefinitionId": "OpenAI.Runs.endpoint"
             }
           ],
           "initializedBy": 0,
@@ -128127,7 +128127,7 @@
               "serverUrlTemplate": "{endpoint}",
               "skipUrlEncoding": false,
               "readOnly": false,
-              "crossLanguageDefinitionId": "OpenAI.endpoint"
+              "crossLanguageDefinitionId": "OpenAI.Threads.endpoint"
             }
           ],
           "initializedBy": 0,
@@ -131625,7 +131625,7 @@
               "serverUrlTemplate": "{endpoint}",
               "skipUrlEncoding": false,
               "readOnly": false,
-              "crossLanguageDefinitionId": "OpenAI.endpoint"
+              "crossLanguageDefinitionId": "OpenAI.VectorStores.endpoint"
             }
           ],
           "initializedBy": 0,
@@ -131830,7 +131830,7 @@
               "serverUrlTemplate": "{endpoint}",
               "skipUrlEncoding": false,
               "readOnly": false,
-              "crossLanguageDefinitionId": "OpenAI.endpoint"
+              "crossLanguageDefinitionId": "OpenAI.Completions.endpoint"
             }
           ],
           "initializedBy": 0,
@@ -132398,7 +132398,7 @@
               "serverUrlTemplate": "{endpoint}",
               "skipUrlEncoding": false,
               "readOnly": false,
-              "crossLanguageDefinitionId": "OpenAI.endpoint"
+              "crossLanguageDefinitionId": "OpenAI.Realtime.endpoint"
             }
           ],
           "initializedBy": 0,
@@ -133133,7 +133133,7 @@
               "serverUrlTemplate": "{endpoint}",
               "skipUrlEncoding": false,
               "readOnly": false,
-              "crossLanguageDefinitionId": "OpenAI.endpoint"
+              "crossLanguageDefinitionId": "OpenAI.Uploads.endpoint"
             }
           ],
           "initializedBy": 0,
